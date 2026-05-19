@@ -1,0 +1,256 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ТехноМаркет - Личный кабинет</title>
+    <link rel="stylesheet" href="main.css">
+</head>
+<body>
+
+    <div id="top-bar">
+        <div id="site-url">technomarket.com</div>
+        <div id="contacts-wrapper">
+            <span id="city">г.Минск</span>
+            <div id="phones">
+                <span>+375 29 102 22 06</span>
+                <span>+375 25 402 22 06</span>
+                <span>+375 17 102 22 06</span>
+            </div>
+            <div id="work-hours">
+                <div class="label">контакт-центр</div>
+                <div class="time">8.00-22.00</div>
+            </div>
+        </div>
+    </div>
+
+    <header id="header">
+        <div id="logo">
+            <a href="main.html" style="display: flex; align-items: center; gap: 15px; text-decoration: none; color: inherit;">
+                <div id="logo-icon">
+                    <img src="logo.svg" alt="ТехноМаркет логотип" onerror="this.style.display='none'">
+                </div>
+                <div id="logo-text">ТехноМаркет</div>
+            </a>
+        </div>
+
+        <div id="search-block">
+            <input type="text" id="search-input" placeholder="поиск товаров">
+            <button type="button" id="search-btn">
+                <img src="search-icon.svg" alt="поиск" class="icon" onerror="this.style.display='none'">
+            </button>
+        </div>
+
+        <nav id="user-links">
+            <a href="account.html" class="user-link" id="account-link">
+                <img src="user-icon.svg" alt="аккаунт" class="icon-small" onerror="this.style.display='none'">
+                <span id="account-text">аккаунт</span>
+            </a>
+            <a href="favorites.html" class="user-link">
+                <img src="heart-icon.svg" alt="избранное" class="icon-small" onerror="this.style.display='none'">
+                <span>избранное <span id="fav-count" class="count-badge">0</span></span>
+            </a>
+            <a href="shopping_cart.html" class="user-link">
+                <img src="cart-icon.svg" alt="корзина" class="icon-small" onerror="this.style.display='none'">
+                <span>корзина <span id="cart-count" class="count-badge">0</span></span>
+            </a>
+        </nav>
+    </header>
+
+    <nav id="nav">
+        <a href="main.html">чайники</a>
+        <a href="main.html">холодильники</a>
+        <a href="main.html">микроволновки</a>
+        <a href="main.html">пылесосы</a>
+        <a href="main.html">утюги</a>
+        <a href="main.html">фены</a>
+        <a href="main.html">тостеры</a>
+        <a href="main.html">мультиварки</a>
+        <a href="main.html">посуда</a>
+    </nav>
+
+    <div id="banner-section">
+        <div class="banner-container">
+            <div class="banner-text">
+                <h2>Супер распродажа!</h2>
+                <p>Скидки до 50% на всю технику</p>
+                <a href="#" class="banner-btn">Узнать больше</a>
+            </div>
+            <div class="banner-offer">
+                <span class="discount-badge">-50%</span>
+            </div>
+        </div>
+    </div>
+
+    <main id="main-content">
+        <div id="account-content" class="account-page">
+            <div class="loading">Загрузка...</div>
+        </div>
+    </main>
+
+    <footer id="main-footer">
+        <div class="footer-container">
+            <div class="footer-section">
+                <h4>ТехноМаркет</h4>
+                <ul>
+                    <li><a href="#">О компании</a></li>
+                    <li><a href="#">Контакты</a></li>
+                    <li><a href="#">Вакансии</a></li>
+                    <li><a href="#">Новости</a></li>
+                </ul>
+            </div>
+            <div class="footer-section">
+                <h4>Покупателям</h4>
+                <ul>
+                    <li><a href="#">Доставка и оплата</a></li>
+                    <li><a href="#">Обмен и возврат</a></li>
+                    <li><a href="#">Гарантия</a></li>
+                    <li><a href="#">Кредит и рассрочка</a></li>
+                </ul>
+            </div>
+            <div class="footer-section">
+                <h4>Услуги</h4>
+                <ul>
+                    <li><a href="#">Установка техники</a></li>
+                    <li><a href="#">Ремонт</a></li>
+                    <li><a href="#">Сервисные центры</a></li>
+                    <li><a href="#">Помощь</a></li>
+                </ul>
+            </div>
+            <div class="footer-section">
+                <h4>Контакты</h4>
+                <ul>
+                    <li><a href="tel:+375291022206">+375 29 102 22 06</a></li>
+                    <li><a href="tel:+375254022206">+375 25 402 22 06</a></li>
+                    <li><a href="tel:+375171022206">+375 17 102 22 06</a></li>
+                    <li><a href="mailto:info@technomarket.by">info@technomarket.by</a></li>
+                </ul>
+            </div>
+        </div>
+        <div class="footer-bottom">
+            <p>&copy; 2024 ТехноМаркет. Все права защищены.</p>
+            <div class="social-links">
+                <a href="#" class="social-link">VK</a>
+                <a href="#" class="social-link">TG</a>
+                <a href="#" class="social-link">OK</a>
+            </div>
+        </div>
+    </footer>
+
+    <script>
+        let currentUser = null;
+
+        function loadStorage() {
+            const savedUser = localStorage.getItem('currentUser');
+            if (savedUser) {
+                currentUser = JSON.parse(savedUser);
+            }
+        }
+
+        function saveCurrentUser(user) {
+            currentUser = user;
+            if (user) {
+                localStorage.setItem('currentUser', JSON.stringify(user));
+            } else {
+                localStorage.removeItem('currentUser');
+            }
+        }
+
+        function updateAccountUI() {
+            const accountText = document.getElementById('account-text');
+            if (accountText) {
+                if (currentUser) {
+                    accountText.textContent = currentUser.phone;
+                } else {
+                    accountText.textContent = 'аккаунт';
+                }
+            }
+        }
+
+        function showNotification(message, isError = false) {
+            const notif = document.createElement('div');
+            notif.className = 'notification';
+            notif.textContent = message;
+            if (isError) {
+                notif.style.backgroundColor = '#c62828';
+            }
+            document.body.appendChild(notif);
+            setTimeout(() => notif.remove(), 2000);
+        }
+
+        function logout() {
+            saveCurrentUser(null);
+            updateAccountUI();
+            renderAccountPage();
+            showNotification('Вы вышли из аккаунта');
+        }
+
+        function renderAccountPage() {
+            const container = document.getElementById('account-content');
+            
+            if (!currentUser) {
+                container.innerHTML = `
+                    <div class="empty-favorites" style="text-align: center; padding: 60px;">
+                        <h2>Вы не авторизованы</h2>
+                        <p>Войдите или зарегистрируйтесь, чтобы увидеть информацию об аккаунте</p>
+                        <a href="main.html" class="continue-shopping">Вернуться на главную</a>
+                    </div>
+                `;
+                return;
+            }
+            
+            container.innerHTML = `
+                <div class="account-card">
+                    <h3>Информация об аккаунте</h3>
+                    <div class="account-info-row">
+                        <div class="account-info-label">Телефон:</div>
+                        <div class="account-info-value">${currentUser.phone || 'Не указан'}</div>
+                    </div>
+                    <div class="account-info-row">
+                        <div class="account-info-label">Дата регистрации:</div>
+                        <div class="account-info-value">${currentUser.registeredDate || '—'}</div>
+                    </div>
+                    <div class="account-actions">
+                        <button class="account-btn account-btn-danger" id="logout-btn">Выйти из аккаунта</button>
+                        <a href="main.html" class="account-btn account-btn-secondary" style="display: inline-flex; align-items: center; justify-content: center; text-decoration: none;">На главную</a>
+                    </div>
+                </div>
+            `;
+            
+            document.getElementById('logout-btn')?.addEventListener('click', logout);
+        }
+
+        function init() {
+            loadStorage();
+            updateAccountUI();
+            renderAccountPage();
+            
+            document.getElementById('search-btn')?.addEventListener('click', () => {
+                const query = document.getElementById('search-input').value.trim();
+                if (query) window.location.href = `main.html?search=${encodeURIComponent(query)}`;
+            });
+            
+            document.getElementById('search-input')?.addEventListener('keypress', (e) => {
+                if (e.key === 'Enter') {
+                    const query = e.target.value.trim();
+                    if (query) window.location.href = `main.html?search=${encodeURIComponent(query)}`;
+                }
+            });
+            
+            document.querySelector('.banner-btn')?.addEventListener('click', (e) => {
+                e.preventDefault();
+                showNotification('Акции и распродажи (демо-режим)');
+            });
+            
+            document.querySelectorAll('.footer-section a[href="#"]').forEach(link => {
+                link.addEventListener('click', (e) => {
+                    e.preventDefault();
+                    showNotification('Раздел в разработке');
+                });
+            });
+        }
+        
+        init();
+    </script>
+</body>
+</html>

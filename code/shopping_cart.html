@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ТехноМаркет - Корзина</title>
+    <link rel="stylesheet" href="shopping_cart.css">
+</head>
+<body>
+
+    <div id="top-bar">
+        <div id="site-url">technomarket.com</div>
+        <div id="contacts-wrapper">
+            <span id="city">г.Минск</span>
+            <div id="phones">
+                <span>+375 29 102 22 06</span>
+                <span>+375 25 402 22 06</span>
+                <span>+375 17 102 22 06</span>
+            </div>
+            <div id="work-hours">
+                <div class="label">контакт-центр</div>
+                <div class="time">8.00-22.00</div>
+            </div>
+        </div>
+    </div>
+
+    <header id="header">
+        <div id="logo">
+            <a href="main.html" style="display: flex; align-items: center; gap: 15px; text-decoration: none; color: inherit;">
+                <div id="logo-icon">
+                    <img src="logo.svg" alt="ТехноМаркет логотип" onerror="this.style.display='none'">
+                </div>
+                <div id="logo-text">ТехноМаркет</div>
+            </a>
+        </div>
+
+        <div id="search-block">
+            <input type="text" id="search-input" placeholder="поиск товаров">
+            <button type="button" id="search-btn">
+                <img src="search-icon.svg" alt="поиск" class="icon" onerror="this.style.display='none'">
+            </button>
+        </div>
+
+        <nav id="user-links">
+            <a href="#" class="user-link" id="account-btn">
+                <img src="user-icon.svg" alt="аккаунт" class="icon-small" onerror="this.style.display='none'">
+                <span id="account-text">аккаунт</span>
+            </a>
+            <a href="favorites.html" class="user-link">
+                <img src="heart-icon.svg" alt="избранное" class="icon-small" onerror="this.style.display='none'">
+                <span>избранное <span id="fav-count">0</span></span>
+            </a>
+            <a href="shopping_cart.html" class="user-link">
+                <img src="cart-icon.svg" alt="корзина" class="icon-small" onerror="this.style.display='none'">
+                <span>корзина <span id="cart-count">0</span></span>
+            </a>
+        </nav>
+    </header>
+
+    <nav id="nav">
+        <a href="main.html">чайники</a>
+        <a href="main.html">холодильники</a>
+        <a href="main.html">микроволновки</a>
+        <a href="main.html">пылесосы</a>
+        <a href="main.html">утюги</a>
+        <a href="main.html">фены</a>
+        <a href="main.html">тостеры</a>
+        <a href="main.html">мультиварки</a>
+        <a href="main.html">посуда</a>
+    </nav>
+
+    <div id="banner-section">
+        <div class="banner-container">
+            <div class="banner-text">
+                <h2>Супер распродажа!</h2>
+                <p>Скидки до 50% на всю технику</p>
+                <a href="#" class="banner-btn">Узнать больше</a>
+            </div>
+            <div class="banner-offer">
+                <span class="discount-badge">-50%</span>
+            </div>
+        </div>
+    </div>
+
+    <main id="main-content">
+        <div style="display: flex; justify-content: space-between; align-items: baseline; flex-wrap: wrap; margin-bottom: 30px;">
+            <h1 id="section-title" style="margin-bottom: 0;">Корзина покупок</h1>
+        </div>
+        
+        <div id="cart-content">
+            <div class="loading">Загрузка...</div>
+        </div>
+    </main>
+
+    <footer id="main-footer">
+        <div class="footer-container">
+            <div class="footer-section">
+                <h4>ТехноМаркет</h4>
+                <ul>
+                    <li><a href="#">О компании</a></li>
+                    <li><a href="#">Контакты</a></li>
+                    <li><a href="#">Вакансии</a></li>
+                    <li><a href="#">Новости</a></li>
+                </ul>
+            </div>
+            <div class="footer-section">
+                <h4>Покупателям</h4>
+                <ul>
+                    <li><a href="#">Доставка и оплата</a></li>
+                    <li><a href="#">Обмен и возврат</a></li>
+                    <li><a href="#">Гарантия</a></li>
+                    <li><a href="#">Кредит и рассрочка</a></li>
+                </ul>
+            </div>
+            <div class="footer-section">
+                <h4>Услуги</h4>
+                <ul>
+                    <li><a href="#">Установка техники</a></li>
+                    <li><a href="#">Ремонт</a></li>
+                    <li><a href="#">Сервисные центры</a></li>
+                    <li><a href="#">Помощь</a></li>
+                </ul>
+            </div>
+            <div class="footer-section">
+                <h4>Контакты</h4>
+                <ul>
+                    <li><a href="tel:+375291022206">+375 29 102 22 06</a></li>
+                    <li><a href="tel:+375254022206">+375 25 402 22 06</a></li>
+                    <li><a href="tel:+375171022206">+375 17 102 22 06</a></li>
+                    <li><a href="mailto:info@technomarket.by">info@technomarket.by</a></li>
+                </ul>
+            </div>
+        </div>
+        <div class="footer-bottom">
+            <p>&copy; 2024 ТехноМаркет. Все права защищены.</p>
+            <div class="social-links">
+                <a href="#" class="social-link">VK</a>
+                <a href="#" class="social-link">TG</a>
+                <a href="#" class="social-link">OK</a>
+            </div>
+        </div>
+    </footer>
+
+    <script src="./shopping_cart.js"></script>
+</body>
+</html>

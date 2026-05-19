@@ -1,0 +1,505 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<goods>
+  <!-- ========== ЧАЙНИКИ ========== -->
+  <product id="1">
+    <name>Электрический чайник HomeStar 1.7л</name>
+    <sku>KT-1024</sku>
+    <price currency="RUB">1490</price>
+    <short_description>Быстрый нагрев 1.7 л, скрытый нагревательный элемент.</short_description>
+    <full_description>Электрический чайник мощностью 2200 Вт. Корпус из нержавеющей стали и стекла. Объем 1.7 литра. Скрытый нагревательный элемент предотвращает накипь. Автоматическое отключение при кипении и снятии с подставки. Фильтр от накипи.</full_description>
+    <in_stock>true</in_stock>
+    <brand>HomeStar</brand>
+    <weight_kg>1.1</weight_kg>
+    <warranty_months>12</warranty_months>
+    <power_w>2200</power_w>
+    <color>серебристый</color>
+    <rating>4.8</rating>
+    <additional_info>Импульсная подсветка воды. Отсек для шнура.</additional_info>
+    <image_url>/shopping_image/083bea4347b2b45142511feb9279a481.jpg</image_url>
+    <detailed_description>Электрический чайник HomeStar объемом 1.7 литра — это идеальное решение для быстрого нагрева воды. Мощность 2200 Вт позволяет вскипятить полный чайник всего за 3-4 минуты. Корпус выполнен из нержавеющей стали и термостойкого стекла: сквозь стекло видно уровень воды и процесс кипения. Скрытый нагревательный элемент из нержавейки предотвращает образование накипи на дне, а съемный фильтр задерживает частицы накипи при наливе воды. Функции безопасности: автоматическое отключение при закипании, защита от включения без воды и отключение при снятии чайника с подставки. Удобная ручка с soft-touch покрытием не нагревается. Импульсная LED-подсветка во время кипения создает красивый эффект. Отсек для хранения шнура помогает поддерживать порядок на кухне. Гарантия 12 месяцев.</detailed_description>
+  </product>
+
+  <product id="2">
+    <name>Электрический чайник AEGIO 1.8л с терморегуляцией</name>
+    <sku>KT-2048</sku>
+    <price currency="RUB">2290</price>
+    <short_description>Поддержание температуры 4 режима, объем 1.8 л.</short_description>
+    <full_description>Чайник с функцией терморегуляции. Мощность 2000 Вт, объем 1.8 л. 4 режима поддержания температуры: 40°C, 60°C, 80°C, 100°C. Металлический корпус, LED-дисплей.</full_description>
+    <in_stock>true</in_stock>
+    <brand>AEGIO</brand>
+    <weight_kg>1.3</weight_kg>
+    <warranty_months>24</warranty_months>
+    <power_w>2000</power_w>
+    <color>черный матовый</color>
+    <rating>4.9</rating>
+    <additional_info>Функция подогрева до 2 часов.</additional_info>
+    <image_url>/shopping_image/9782955471.jpg</image_url>
+    <detailed_description>Чайник AEGIO с терморегуляцией позволяет не просто вскипятить воду, а поддерживать её при заданной температуре до 2 часов. Вы можете выбрать 40°C для детского питания, 60°C для зеленого чая, 80°C для белого чая или 100°C для черного чая и кофе. Мощность 2000 Вт быстро доводит 1.8 литра до кипения. Корпус из матовой нержавеющей стали не оставляет отпечатков пальцев. LED-дисплей показывает текущую температуру. Скрытый нагревательный элемент и двойной фильтр от накипи обеспечивают чистоту воды. Автоматическое отключение при кипении, защита от перегрева и блокировка включения без воды. Съемная крышка с широким горлом упрощает очистку. Гарантия 24 месяца.</detailed_description>
+  </product>
+
+  <product id="3">
+    <name>Электрический чайник HomeLine 1.5л (стекло)</name>
+    <sku>KT-156</sku>
+    <price currency="RUB">1790</price>
+    <short_description>Полностью стеклянный корпус, голубая подсветка.</short_description>
+    <full_description>Чайник из термостойкого стекла с синей подсветкой. Мощность 1850 Вт, объем 1.5 л. Скрытый нагревательный диск.</full_description>
+    <in_stock>false</in_stock>
+    <brand>HomeLine</brand>
+    <weight_kg>1.0</weight_kg>
+    <warranty_months>12</warranty_months>
+    <power_w>1850</power_w>
+    <color>прозрачный/синий</color>
+    <rating>4.6</rating>
+    <additional_info>Бесшумное кипение.</additional_info>
+    <image_url>/shopping_image/05ee3684cffc5be9acbefe690d656d96.webp</image_url>
+    <detailed_description>Полностью стеклянный чайник HomeLine — это стильный аксессуар для современной кухни. Термостойкое стекло Borosilicate выдерживает перепады температур и не впитывает запахи. Объем 1.5 литра при мощности 1850 Вт гарантирует кипение за 4 минуты. Скрытый нагревательный элемент из нержавеющей стали легко чистится. Во время кипения включается эффектная голубая LED-подсветка, которая гаснет после закипания. Автоматическое отключение при достижении 100°C, защита от включения без воды. Ручка и крышка из термопластика не нагреваются. Узкий носик предотвращает разбрызгивание. Съемный фильтр от накипи. Товар временно отсутствует. Гарантия 12 месяцев.</detailed_description>
+  </product>
+
+  <product id="4">
+    <name>Электрический чайник ThermoPot 4л (термопот)</name>
+    <sku>TP-400</sku>
+    <price currency="RUB">3990</price>
+    <short_description>Нагревает и поддерживает температуру 24 часа.</short_description>
+    <full_description>Термопот на 4 литра. Мощность нагрева 750 Вт, поддержание 50 Вт. Электронная помпа подачи воды.</full_description>
+    <in_stock>true</in_stock>
+    <brand>ThermoPot</brand>
+    <weight_kg>2.5</weight_kg>
+    <warranty_months>12</warranty_months>
+    <power_w>750</power_w>
+    <color>белый/серебро</color>
+    <rating>4.8</rating>
+    <additional_info>2 способа подачи: помпа и наклоном.</additional_info>
+    <image_url>/shopping_image/images.jpg</image_url>
+    <detailed_description>Термопот ThermoPot объемом 4 литра — идеальное решение для офиса или большой семьи. Устройство сначала кипятит воду (мощность 750 Вт, время около 30 минут), а затем автоматически переключается в режим поддержания температуры (всего 50 Вт). Вы можете задать желаемую температуру от 60°C до 98°C, и вода будет оставаться горячей круглосуточно. Электронная помпа позволяет наливать воду одной кнопкой — даже ребенку не страшно обжечься. Также есть механический способ налива наклоном. LED-дисплей показывает текущую температуру. Угольный фильтр улучшает вкус воды. Внутреннее покрытие из нержавеющей стали 304. Защита от перегрева и автоматическое отключение при низком уровне воды. Гарантия 12 месяцев.</detailed_description>
+  </product>
+
+  <product id="5">
+    <name>Электрический чайник MiniKit 0.8л (дорожный)</name>
+    <sku>MK-08</sku>
+    <price currency="RUB">990</price>
+    <short_description>Компактный для путешествий, складная ручка.</short_description>
+    <full_description>Чайник 0.8 л для отелей и поездок. Мощность 900 Вт, складная ручка, универсальное напряжение 110-220В.</full_description>
+    <in_stock>true</in_stock>
+    <brand>MiniKit</brand>
+    <weight_kg>0.45</weight_kg>
+    <warranty_months>6</warranty_months>
+    <power_w>900</power_w>
+    <color>белый</color>
+    <rating>4.5</rating>
+    <additional_info>Силиконовый шнур-катушка.</additional_info>
+    <image_url>/shopping_image/ed22a0a7f286130e97dc873d9516c08b.jpg</image_url>
+    <detailed_description>Дорожный чайник MiniKit объемом 0.8 литра — незаменимый спутник в командировках и путешествиях. Мощность 900 Вт достаточна для быстрого кипячения даже при напряжении 110 В (адаптация к 110-220В). Складная ручка уменьшает объем при упаковке, а силиконовый шнур наматывается на дно. Корпус из пищевого пластика, нагревательный элемент скрытый. Автоматическое отключение при кипении и снятии с подставки. Крышка фиксируется в открытом положении для удобного налива. Вес всего 450 граммов. Подходит для отелей, кемпингов, поездов. Съемный фильтр от накипи легко промывается. Работает от розеток любого типа (евро/американский переходник в комплекте). Гарантия 6 месяцев.</detailed_description>
+  </product>
+
+  <!-- ========== ХОЛОДИЛЬНИКИ ========== -->
+  <product id="6">
+    <name>Холодильник двухкамерный FrostLine 210 л No Frost</name>
+    <sku>FR-210</sku>
+    <price currency="RUB">18990</price>
+    <short_description>No Frost, электронное управление, класс A+.</short_description>
+    <full_description>Двухкамерный холодильник (общий объем 210 л: 185 л холодильная камера, 25 л морозильная). Система No Frost обеих камер. Электронное управление с дисплеем. Класс энергоэффективности A+. Уровень шума 40 дБ.</full_description>
+    <in_stock>true</in_stock>
+    <brand>FrostLine</brand>
+    <weight_kg>52</weight_kg>
+    <warranty_months>24</warranty_months>
+    <color>белый/инокс</color>
+    <rating>4.8</rating>
+    <additional_info>Перевешиваемые двери.</additional_info>
+    <image_url>/shopping_image/14131010febb6c27a72829f7279c1cd5.jpg</image_url>
+    <detailed_description>Холодильник FrostLine FR-210 — это современный двухкамерный прибор с технологией No Frost в обеих камерах. Общий полезный объем 210 литров: 185 литров в холодильной и 25 литров в морозильной камере. Система No Frost исключает ручное размораживание: воздух циркулирует вентиляторами, и иней не образуется. Электронное управление с LED-дисплеем позволяет точно задавать температуру отдельно для каждой камеры. Функции: быстрая заморозка, режим «отпуск» (экономичное поддержание минимального охлаждения), звуковой сигнал при открытой двери. Класс энергоэффективности A+ (расход около 280 кВт·ч в год). Уровень шума 40 дБ — тихо даже ночью. Полки из ударопрочного стекла регулируются по высоте. Двери можно перевесить на другую сторону. Гарантия 24 месяца.</detailed_description>
+  </product>
+
+  <product id="7">
+    <name>Холодильник однокамерный CoolBox 90 л</name>
+    <sku>CB-090</sku>
+    <price currency="RUB">8990</price>
+    <short_description>Компактный, для дачи или офиса, морозилка 12 л.</short_description>
+    <full_description>Однокамерный холодильник 90 л, морозильное отделение 12 л. Ручная разморозка, класс A. Простая механическая регулировка.</full_description>
+    <in_stock>true</in_stock>
+    <brand>CoolBox</brand>
+    <weight_kg>23</weight_kg>
+    <warranty_months>12</warranty_months>
+    <color>белый</color>
+    <rating>4.3</rating>
+    <additional_info>Полка для бутылок.</additional_info>
+    <image_url>/shopping_image/578b7a09b06b3bae3fda1ee69508d089.jpg</image_url>
+    <detailed_description>Компактный холодильник CoolBox объемом 90 литров идеально подходит для дачи, офиса или общежития. Внутри есть небольшое морозильное отделение на 12 литров — достаточно для льда и нескольких пачек пельменей. Общая высота всего 85 см, ширина 48 см — поместится под столешницу. Механическое управление (ручка-термостат) просто и надежно. Класс энергоэффективности A (расход 150 кВт·ч в год). Уровень шума 38 дБ. Внутри: съемная полка, ящик для овощей, полка для яиц на 6 ячеек, держатель для бутылок. Дверца имеет полку для банок. Размораживание ручное, раз в 2-3 месяца. Холодильник не требует установки — включите в розетку. Гарантия 12 месяцев.</detailed_description>
+  </product>
+
+  <product id="8">
+    <name>Холодильник Side-by-Side MegaCool 520 л</name>
+    <sku>MS-520</sku>
+    <price currency="RUB">42990</price>
+    <short_description>Две двери, диспенсер воды, Total No Frost, класс A++.</short_description>
+    <full_description>Холодильник 520 л (холодильная 340, морозильная 180). Диспенсер воды и льда. Инверторный компрессор, класс A++.</full_description>
+    <in_stock>false</in_stock>
+    <brand>MegaCool</brand>
+    <weight_kg>95</weight_kg>
+    <warranty_months>36</warranty_months>
+    <color>серебристый</color>
+    <rating>4.9</rating>
+    <additional_info>Wi-Fi управление со смартфона.</additional_info>
+    <image_url>/shopping_image/ac36070615f688c179856065559e8224.jpg</image_url>
+    <detailed_description>Холодильник Side-by-Side MegaCool — это премиальный прибор для большой семьи. Общий объем 520 литров: 340 литров холодильная и 180 литров морозильная камеры. Инверторный компрессор с 10-летней гарантией обеспечивает класс энергоэффективности A++ (экономия до 50% по сравнению с классом A). Технология Total No Frost предотвращает образование инея в обеих камерах. Диспенсер на двери подает холодную воду, дробленый лед и кубики льда (подключение к водопроводу требуется). Электронное управление с большим сенсорным дисплеем, подключение к Wi-Fi для управления через приложение. Внутреннее LED-освещение, зона свежести (0°C), автоматический режим отпуска. Товар под заказ. Гарантия 36 месяцев.</detailed_description>
+  </product>
+
+  <product id="9">
+    <name>Холодильник морозильный ларь IceBox 200 л</name>
+    <sku>IB-200</sku>
+    <price currency="RUB">15990</price>
+    <short_description>Морозильный ларь 200 л, механическое управление, класс A+.</short_description>
+    <full_description>Горизонтальный морозильник с корзинами. Температура до -24°C. Ручное размораживание.</full_description>
+    <in_stock>true</in_stock>
+    <brand>IceBox</brand>
+    <weight_kg>42</weight_kg>
+    <warranty_months>24</warranty_months>
+    <color>белый</color>
+    <rating>4.7</rating>
+    <additional_info>Колесики для перемещения.</additional_info>
+    <image_url>/shopping_image/3f67221a61505c910ef884edcbc6aea4.jpg</image_url>
+    <detailed_description>Морозильный ларь IceBox объемом 200 литров — лучшее решение для долгосрочного хранения мяса, рыбы, ягод и полуфабрикатов. Температура внутри может опускаться до -24°C, что обеспечивает глубокую заморозку по ГОСТУ. Механический терморегулятор прост и надежен. Внутри две пластиковые корзины для разделения продуктов. Крышка открывается вертикально и фиксируется в любом положении благодаря газовым амортизаторам. Уплотнитель по периметру надежно держит холод. Класс энергоэффективности A+ (расход 240 кВт·ч в год). Размораживание ручное (рекомендуется раз в полгода). Колесики на задних ножках облегчают перемещение. Выдерживает перепады напряжения. Гарантия 24 месяца.</detailed_description>
+  </product>
+
+  <product id="10">
+    <name>Холодильник встраиваемый KitchenFit 150 л</name>
+    <sku>KF-150</sku>
+    <price currency="RUB">25990</price>
+    <short_description>Встраиваемый под столешницу, 150 л, No Frost.</short_description>
+    <full_description>Встраиваемый холодильник 150 л (холодильная 130, морозильная 20). Дверь крепится к фасаду кухни. Класс A++.</full_description>
+    <in_stock>true</in_stock>
+    <brand>KitchenFit</brand>
+    <weight_kg>38</weight_kg>
+    <warranty_months>24</warranty_months>
+    <color>белый/инокс</color>
+    <rating>4.6</rating>
+    <additional_info>Инструкция по монтажу в комплекте.</additional_info>
+    <image_url>/shopping_image/c4e7f7d2e25433e88c91a29fa71aac5f.jpg</image_url>
+    <detailed_description>Встраиваемый холодильник KitchenFit идеально интегрируется в кухонный гарнитур: дверца крепится к мебельному фасаду (направляющие и шаблоны в комплекте). Общий объем 150 литров: 130 литров холодильная камера, 20 литров морозильная. Технология No Frost в холодильной камере, в морозильной — капельная система. Электронное управление с выносным блоком, который монтируется на фасад. Класс энергоэффективности A++ расходует всего 170 кВт·ч в год. Уровень шума 38 дБ. Полки из закаленного стекла, ящик для овощей с регулятором влажности. Высота 82 см — стандарт для встраивания под столешницу. Гарантия 24 месяца. Профессиональная установка рекомендуется.</detailed_description>
+  </product>
+
+  <!-- ========== МИКРОВОЛНОВЫЕ ПЕЧИ ========== -->
+  <product id="11">
+    <name>Микроволновая печь AEGIO 20 л</name>
+    <sku>MW-2056</sku>
+    <price currency="RUB">3990</price>
+    <short_description>Механическое управление, мощность 700 Вт, размораживание.</short_description>
+    <full_description>Микроволновая печь объемом 20 литров с механическими поворотными переключателями. 5 уровней мощности, максимальная 700 Вт. Таймер до 35 минут. Внутреннее покрытие – эмаль. Функция размораживания.</full_description>
+    <in_stock>true</in_stock>
+    <brand>AEGIO</brand>
+    <weight_kg>10.5</weight_kg>
+    <warranty_months>12</warranty_months>
+    <power_w>700</power_w>
+    <color>белый</color>
+    <rating>4.5</rating>
+    <additional_info>Поворотный стол 24.5 см.</additional_info>
+    <image_url>/shopping_image/8df99990540a6bab1fb3871cad2bc67c.jpg</image_url>
+    <detailed_description>Микроволновая печь AEGIO объемом 20 литров — это надежный прибор с механическим управлением. Два поворотных переключателя: один для выбора мощности (5 уровней, максимум 700 Вт), второй для таймера до 35 минут. Просто повернули — и печь запустилась. Функция размораживания автоматически подбирает режим работы для мяса, птицы или рыбы. Внутренняя камера покрыта эмалью, устойчивой к жиру и легко очищаемой. Диаметр поворотного стола 24.5 см позволяет разогревать тарелку супа или пиццу среднего размера. Встроенная подсветка и звуковой сигнал об окончании работы. Компактные габариты (45х26х33 см) позволяют разместить печь даже на небольшой кухне. Гарантия 12 месяцев.</detailed_description>
+  </product>
+
+  <product id="12">
+    <name>Микроволновая печь Samsung 23 л с грилем</name>
+    <sku>MG-23G</sku>
+    <price currency="RUB">6490</price>
+    <short_description>Гриль 1000 Вт, СВЧ 800 Вт, сенсорное управление, 8 автопрограмм.</short_description>
+    <full_description>Печь 23 л с кварцевым грилем. Мощность СВЧ 800 Вт, гриль 1000 Вт. Сенсорная панель, дисплей.</full_description>
+    <in_stock>true</in_stock>
+    <brand>Samsung</brand>
+    <weight_kg>12.5</weight_kg>
+    <warranty_months>24</warranty_months>
+    <power_w>800</power_w>
+    <color>черный</color>
+    <rating>4.8</rating>
+    <additional_info>Режим комбинирования СВЧ+гриль.</additional_info>
+    <image_url>/shopping_image/d15cb452f73b169362a2d37e6ce932de.jpg</image_url>
+    <detailed_description>Микроволновая печь Samsung с кварцевым грилем — это универсальный прибор для разогрева, приготовления и подрумянивания. Объем 23 литра позволяет запекать курицу целиком. Мощность СВЧ 800 Вт (10 уровней), мощность гриля 1000 Вт. Сенсорное управление с LED-дисплеем дает доступ к 8 автоматическим программам (пицца, картофель, напитки, овощи, рыба, мясо, размораживание и подогрев). Режим комбинирования позволяет использовать СВЧ и гриль одновременно для быстрого приготовления с хрустящей корочкой. Внутренняя биокерамическая эмаль легко моется и имеет антибактериальное покрытие. Функция автоматического размораживания по весу. Блокировка от детей. Гарантия 24 месяца.</detailed_description>
+  </product>
+
+  <product id="13">
+    <name>Микроволновая печь LG 25 л инверторная</name>
+    <sku>LM-25I</sku>
+    <price currency="RUB">8990</price>
+    <short_description>Инверторная технология, равномерный нагрев, СВЧ + гриль + конвекция.</short_description>
+    <full_description>Инверторная печь 25 л. Мощность СВЧ 900 Вт, гриль 1100 Вт, конвекция 2000 Вт. 16 автопрограмм.</full_description>
+    <in_stock>false</in_stock>
+    <brand>LG</brand>
+    <weight_kg>14.2</weight_kg>
+    <warranty_months>24</warranty_months>
+    <power_w>900</power_w>
+    <color>нержавейка</color>
+    <rating>4.9</rating>
+    <additional_info>Очистка паром EasyClean.</additional_info>
+    <image_url>/shopping_image/11986be371a1a946e89520b787eaf8c1.jpg</image_url>
+    <detailed_description>Инверторная микроволновая печь LG обеспечивает равномерный нагрев продуктов благодаря инверторной технологии (нет циклов «включено-выключено», мощность регулируется плавно). Объем 25 литров позволяет готовить большие блюда. Три режима: СВЧ (900 Вт, 10 уровней), кварцевый гриль (1100 Вт) и конвекция (2000 Вт) с вентилятором для циркуляции горячего воздуха. 16 автоматических программ, включая йогурт, расстойку теста и приготовление хлеба. Сенсорная панель с большим дисплеем. Легкая очистка паром EasyClean: достаточно поставить в печь миску с водой на 5 минут, затем протереть стенки. Функция быстрого старта (30 секунд на полной мощности). Товар под заказ. Гарантия 24 месяца.</detailed_description>
+  </product>
+
+  <!-- ========== ПЫЛЕСОСЫ ========== -->
+  <product id="14">
+    <name>Пылесос цилиндровый CleanTech VC-330 1500 Вт</name>
+    <sku>VC-330</sku>
+    <price currency="RUB">5490</price>
+    <short_description>Циклонный фильтр, HEPA-фильтр, объем контейнера 2.5 л.</short_description>
+    <full_description>Цилиндровый пылесос с циклонной системой фильтрации. Мощность всасывания 350 Вт, потребляемая 1500 Вт. Объем контейнера для пыли – 2.5 л. HEPA 13 фильтр для очистки выходящего воздуха. Радиус действия 8 метров.</full_description>
+    <in_stock>false</in_stock>
+    <brand>CleanTech</brand>
+    <weight_kg>4.8</weight_kg>
+    <warranty_months>24</warranty_months>
+    <color>черный/синий</color>
+    <rating>4.7</rating>
+    <additional_info>Автоматическая смотка шнура, парковка на корпусе.</additional_info>
+    <image_url>/shopping_image/c444f45be1ce60d1f24fd52011cb5b7f.jpg</image_url>
+    <detailed_description>Пылесос CleanTech VC-330 с циклонной технологией не теряет мощность всасывания по мере заполнения контейнера. Потребляемая мощность 1500 Вт при силе всасывания 350 Вт. Объем контейнера 2.5 литра — хватает на несколько уборок. Выходящий воздух проходит через HEPA 13 фильтр, задерживающий 99.95% частиц размером до 0.3 микрона (пыльца, аллергены, клещи). В комплекте: щелевая насадка, комбинированная щетка пол/ковер, турбощетка для шерсти животных. Радиус действия 8 метров. Шнур автоматически сматывается кнопкой. Вертикальная парковка на корпусе. Механический регулятор мощности. Товар временно отсутствует. Гарантия 24 месяца.</detailed_description>
+  </product>
+
+  <product id="15">
+    <name>Пылесос вертикальный 2-в-1 VacuumClean VC-10</name>
+    <sku>VC-10</sku>
+    <price currency="RUB">3990</price>
+    <short_description>Беспроводной, 22В, 25 мин, HEPA, съемный ручной блок.</short_description>
+    <full_description>Вертикальный пылесос с аккумулятором 2200 мАч. Мощность всасывания 100 Вт. Превращается в ручной пылесос.</full_description>
+    <in_stock>true</in_stock>
+    <brand>VacuumClean</brand>
+    <weight_kg>2.3</weight_kg>
+    <warranty_months>12</warranty_months>
+    <power_w>100</power_w>
+    <color>серебро/синий</color>
+    <rating>4.4</rating>
+    <additional_info>Зарядное устройство, настенный кронштейн.</additional_info>
+    <image_url>/shopping_image/e47f7b714a9dc5c45ab81faac5ccd38c.jpg</image_url>
+    <detailed_description>Вертикальный беспроводной пылесос VacuumClean — это 2 в 1: основная длинная ручка для уборки полов и съемный ручной блок для чистки диванов, штор, клавиатур и салона автомобиля. Аккумулятора 2200 мАч хватает на 25 минут работы в обычном режиме. Мощность всасывания 100 Вт достаточно для сухой уборки ковров, ламината и плитки. Контейнер для пыли 0.5 литра, фильтр HEPA. Щелевая и комбинированная насадки в комплекте. Вес всего 2.3 кг. LED-подсветка на основном блоке. Управление одной кнопкой. Зарядка от сети (4-5 часов), настенный кронштейн для хранения. Гарантия 12 месяцев.</detailed_description>
+  </product>
+  <!-- ============Утюги=========== --> 
+  <product id="16">
+    <name>Утюг Tefal Ultimate Anti-Calc FV9788</name>
+    <sku>FV9788</sku>
+    <price currency="RUB">4990</price>
+    <short_description>Подошва Durilium AirGlide, 2600 Вт, пар 50 г/мин, удар 200 г/мин, антинакипь.</short_description>
+    <full_description>Премиальный утюг с функцией Easycord (беспроводной режим). Емкость 320 мл. Съемный резервуар.</full_description>
+    <in_stock>false</in_stock>
+    <brand>Tefal</brand>
+    <weight_kg>1.6</weight_kg>
+    <warranty_months>24</warranty_months>
+    <power_w>2600</power_w>
+    <color>золотой/черный</color>
+    <rating>4.9</rating>
+    <additional_info>Подошва с распределением пара 400 отверстий.</additional_info>
+    <image_url>/shopping_image/b0d505f33042e8e5f73061637741c446.jpg</image_url>
+    <detailed_description>Премиальный утюг Tefal Ultimate с подошвой Durilium AirGlide (керамика+металл) обеспечивает исключительное скольжение. Мощность 2600 Вт, подача пара 50 г/мин, паровой удар 200 г/мин — мощнейший в классе. Система Anti-Calc удаляет накипь полностью, без картриджей, срок службы продлен до 10 лет. Съемный резервуар 320 мл легко наполнять и мыть. Функция Easycord позволяет работать без шнура (нагревается на подставке, съезжает на 20 секунд глажки). 400 отверстий в подошве равномерно распределяют пар. Вертикальное отпаривание. Автоотключение. Товар под заказ. Гарантия 24 месяца.</detailed_description>
+  </product>
+
+  <product id="17">
+    <name>Утюг дорожный MiniGo 500 Вт</name>
+    <sku>MG-500</sku>
+    <price currency="RUB">990</price>
+    <short_description>Компактный, 220-240В, складная ручка, дорожный чехол.</short_description>
+    <full_description>Утюг 500 Вт, вес 0.5 кг, размер с ладонь. Работает от розетки. Нагревается за 1 минуту.</full_description>
+    <in_stock>true</in_stock>
+    <brand>MiniGo</brand>
+    <weight_kg>0.5</weight_kg>
+    <warranty_months>6</warranty_months>
+    <power_w>500</power_w>
+    <color>белый/розовый</color>
+    <rating>4.3</rating>
+    <additional_info>Керамическая подошва.</additional_info>
+    <image_url>/shopping_image/c8d87f660d343999c80a03370e574654.jpg</image_url>
+    <detailed_description>Дорожный утюг MiniGo незаменим в поездках: размером с ладонь, вес 500 граммов. Мощность 500 Вт достаточна для быстрого разглаживания рубашек и платьев (нагрев за 60 секунд). Компактная керамическая подошва. Складная ручка и нейлоновый чехол в комплекте. Шнур 1.5 метра, вилка европейского типа (переходник в комплекте). Работает от напряжения 220-240 В (не подходит для 110 В). Вместимости воды нет — используется сухое глажение или слегка влажный проутюжильник. Идеален для командировок, отпуска, общежития. Гарантия 6 месяцев.</detailed_description>
+  </product>
+
+  <!-- ========== ФЕНЫ ========== -->
+  <product id="18">
+    <name>Фен Philips MoistureProtect HP8281</name>
+    <sku>HP8281</sku>
+    <price currency="RUB">5990</price>
+    <short_description>2200 Вт, датчик влажности, ионизация, технология защиты от перегрева.</short_description>
+    <full_description>Фен с сенсором, который измеряет влажность волос и подстраивает температуру. 3 насадки.</full_description>
+    <in_stock>true</in_stock>
+    <brand>Philips</brand>
+    <weight_kg>0.8</weight_kg>
+    <warranty_months>24</warranty_months>
+    <power_w>2200</power_w>
+    <color>черный/золотой</color>
+    <rating>4.9</rating>
+    <additional_info>Датчик инфракрасный.</additional_info>
+    <image_url>/shopping_image/f40d4a5d57fbfe44acc7d7e3832523b9.jpg</image_url>
+    <detailed_description>Умный фен Philips MoistureProtect оснащен инфракрасным датчиком, который 9000 раз в секунду измеряет влажность волос и автоматически регулирует температуру, предотвращая пересушивание. Мощность 2200 Вт обеспечивает быструю сушку. Технология ThermoProtect поддерживает оптимальную температуру 57°C. Ионизация уменьшает пушистость. В комплекте: концентратор для точной укладки, диффузор, насадка-расческа. 3 скорости, 3 температуры. Холодный обдув. Шнур 3 метра с шарнирным соединением. Гарантия 24 месяца.</detailed_description>
+  </product>
+
+  <product id="19">
+    <name>Фен дорожный TravelDry</name>
+    <sku>TD-100</sku>
+    <price currency="RUB">1290</price>
+    <short_description>Складная ручка, двойное напряжение 110-220В, 1200 Вт, 500 г.</short_description>
+    <full_description>Дорожный фен со складной ручкой. Универсальный переходник. 2 скорости, 2 температуры.</full_description>
+    <in_stock>true</in_stock>
+    <brand>TravelDry</brand>
+    <weight_kg>0.45</weight_kg>
+    <warranty_months>12</warranty_months>
+    <power_w>1200</power_w>
+    <color>серебристый</color>
+    <rating>4.5</rating>
+    <additional_info>Чехол в комплекте.</additional_info>
+    <image_url>/shopping_image/1eb388a51866d9c681cf056182284ca7.jpg</image_url>
+    <detailed_description>Дорожный фен TravelDry весит всего 450 граммов и складывается до размера 15 см. Поддерживает двойное напряжение (110-220В) — работает в США и Европе без трансформатора. Мощность 1200 Вт достаточно для быстрой сушки коротких и средних волос. Две скорости, две температуры, ионизация. Съемный фильтр. В комплекте: концентраторная насадка, универсальный переходник для розеток (евро/US/UK), мягкий чехол. Идеален для путешествий, командировок, дачи. Гарантия 12 месяцев.</detailed_description>
+  </product>
+
+  <product id="20">
+    <name>Фен-щетка Braum 2-в-1</name>
+    <sku>BR-2in1</sku>
+    <price currency="RUB">2490</price>
+    <short_description>Фен и круглая щетка, 1000 Вт, ионизация, 3 насадки.</short_description>
+    <full_description>Фен-щетка для укладки. Вращающаяся щетка 2 направления. Объем 43 мм. Поворотный шнур.</full_description>
+    <in_stock>false</in_stock>
+    <brand>Braum</brand>
+    <weight_kg>0.72</weight_kg>
+    <warranty_months>12</warranty_months>
+    <power_w>1000</power_w>
+    <color>розовый/белый</color>
+    <rating>4.4</rating>
+    <additional_info>Керамическое покрытие щетки.</additional_info>
+    <image_url>/shopping_image/21fb5331d96c1e1ffccb5fdfadb509f1.jpg</image_url>
+    <detailed_description>Фен-щетка Braum 2-в-1 одновременно сушит и создает объем у корней. Мощность 1000 Вт. Круглая вращающаяся щетка диаметром 43 мм с керамическим покрытием (два направления вращения). Три сменные насадки: 43 мм щетка для объема, 37 мм щетка для локонов, концентратор для сушки. Три режима температуры (холодный, теплый, горячий) и две скорости. Ионизация. Поворотный шнур 2 метра. Товар временно отсутствует. Гарантия 12 месяцев.</detailed_description>
+  </product>
+
+  <!-- ========== ТОСТЕРЫ ========== -->
+  <product id="21">
+    <name>Тостер ToastDay TS-117</name>
+    <sku>TS-117</sku>
+    <price currency="RUB">1790</price>
+    <short_description>2 отсека, 6 степеней поджаривания, центрирование, подогрев булок.</short_description>
+    <full_description>Тостер 850 Вт с механическим регулятором. Функции разморозки и подогрева. Выдвижной поддон.</full_description>
+    <in_stock>true</in_stock>
+    <brand>ToastDay</brand>
+    <weight_kg>1.2</weight_kg>
+    <warranty_months>12</warranty_months>
+    <power_w>850</power_w>
+    <color>металлик/черный</color>
+    <rating>4.4</rating>
+    <additional_info>Решетка для булочек.</additional_info>
+    <image_url>/shopping_image/5e18bc7f4ac09e501cae665519c190b7.jpg</image_url>
+    <detailed_description>Тостер ToastDay на 2 куска хлеба. 6 уровней поджаривания — от легкого до хрустящего. Функция центрирования подстраивает ломтики любой толщины. Разморозка и подогрев. Кнопка отмены. Дополнительная решетка для булочек. Подъем для маленьких кусочков. Выдвижной поддон для крошек. Дизайн металлик/черный. Гарантия 12 месяцев.</detailed_description>
+  </product>
+
+  <product id="22">
+    <name>Тостер Tefal TT3202 4 ломтика</name>
+    <sku>TT3202</sku>
+    <price currency="RUB">3990</price>
+    <short_description>На 4 куска, регулятор подрумянивания, центрирование, подсветка.</short_description>
+    <full_description>Тостер для 4 ломтиков. 2 независимых отсека с 2 рычагами. Мощность 1400 Вт.</full_description>
+    <in_stock>true</in_stock>
+    <brand>Tefal</brand>
+    <weight_kg>2.3</weight_kg>
+    <warranty_months>24</warranty_months>
+    <power_w>1400</power_w>
+    <color>серебристый</color>
+    <rating>4.7</rating>
+    <additional_info>Отсек для шнура.</additional_info>
+    <image_url>/shopping_image/ed1832a39224c6e66e88f43645dbfc81.jpg</image_url>
+    <detailed_description>Тостер Tefal на 4 куска хлеба — идеален для большой семьи. Два независимых отсека с отдельными рычагами позволяют одновременно жарить разные типы хлеба. Мощность 1400 Вт. 6 степеней обжаривания, функция разморозки и подогрева. Автоматическое центрирование. Кнопка «подъем» для мелких ломтиков. Отсек для шнура. Цвет серебристый. Гарантия 24 месяца.</detailed_description>
+  </product>
+
+  <!-- ========== МУЛЬТИВАРКИ ========== -->
+  <product id="23">
+    <name>Мультиварка SmartCook MC-500 5 л, 1000 Вт</name>
+    <sku>MC-500</sku>
+    <price currency="RUB">5490</price>
+    <short_description>12 автопрограмм, отложенный старт, чаша с мраморным покрытием.</short_description>
+    <full_description>Мультиварка 5 л, мощность 1000 Вт. 12 программ. Йогурт, выпечка, плов. Подогрев. Книга рецептов.</full_description>
+    <in_stock>true</in_stock>
+    <brand>SmartCook</brand>
+    <weight_kg>4.1</weight_kg>
+    <warranty_months>12</warranty_months>
+    <color>красный/черный</color>
+    <rating>4.9</rating>
+    <additional_info>Пароварка-вставка в комплекте.</additional_info>
+    <image_url>/shopping_image/e3c41ae314b5a2a0f3922f117bae9c34.jpg</image_url>
+    <detailed_description>Мультиварка SmartCook объемом 5 литров с мраморным антипригарным покрытием. 12 программ: суп, каша, плов, тушение, выпечка, йогурт, пароварка, макароны, крупы, рис, жарка и подогрев. Отложенный старт до 24 часов. Автоматический подогрев до 12 часов. Съемная крышка. Лоток для конденсата. Книга рецептов. Гарантия 12 месяцев.</detailed_description>
+  </product>
+
+  <product id="24">
+    <name>Мультиварка-скороварка Redmond RMC-4503</name>
+    <sku>RMC-4503</sku>
+    <price currency="RUB">7990</price>
+    <short_description>Скороварка + мультиварка, 5 л, 1000 Вт, 14 программ, клапан сброса давления.</short_description>
+    <full_description>Давление 70 кПа. Время приготовления в 2-3 раза быстрее. Чаша с керамическим покрытием.</full_description>
+    <in_stock>false</in_stock>
+    <brand>Redmond</brand>
+    <weight_kg>5.2</weight_kg>
+    <warranty_months>24</warranty_months>
+    <color>черный/нерж.</color>
+    <rating>4.8</rating>
+    <additional_info>Сенсорная панель, 3D-нагрев.</additional_info>
+    <image_url>/shopping_image/0a1e2adeceef72c1bee73dfb3f37cb54.jpg</image_url>
+    <detailed_description>Мультиварка-скороварка Redmond с максимальным давлением 70 кПа сокращает время приготовления в 2-3 раза. Объем 5 литров. 14 программ, включая голубцы, студень, фасоль, каши. Сенсорная панель. Керамическая чаша. Клапан сброса давления. Функция отложенного старта. Товар под заказ. Гарантия 24 месяца.</detailed_description>
+  </product>
+
+  <!-- ========== ПОСУДА (кастрюли, сковороды, блендеры, наборы, контейнеры, весы и т.д.) ========== -->
+  <product id="25">
+    <name>Набор кастрюль CookWay CP-203 (нерж. сталь, 3 шт)</name>
+    <sku>CP-203</sku>
+    <price currency="RUB">3490</price>
+    <short_description>3 кастрюли (2,3,4 л), индукционное дно, крышки стекло.</short_description>
+    <full_description>Набор из нержавейки 18/10. Подходит для всех плит, включая индукцию. Ручки с силиконовыми вставками.</full_description>
+    <in_stock>true</in_stock>
+    <brand>CookWay</brand>
+    <weight_kg>4.3</weight_kg>
+    <warranty_months>6</warranty_months>
+    <material>нержавеющая сталь</material>
+    <color>зеркальная полировка</color>
+    <rating>4.9</rating>
+    <additional_info>Силиконовые вставки на ручках.</additional_info>
+    <image_url>/shopping_image/00e280e1f5a7f5df25c12dfe15527513.jpg</image_url>
+    <detailed_description>Набор кастрюль из нержавеющей стали 18/10 с зеркальной полировкой. Объемы 2 л, 3 л, 4 л. Капсульное индукционное дно с термораспределительным слоем. Крышки из жаропрочного стекла с пароотводом. Подходит для газовых, электрических, стеклокерамических и индукционных плит. Ручки с силиконовыми вставками не нагреваются. Можно мыть в посудомойке. Гарантия 6 месяцев.</detailed_description>
+  </product>
+
+  <product id="26">
+    <name>Сковорода StonePan PN-28 (28 см, каменное покрытие)</name>
+    <sku>PN-28</sku>
+    <price currency="RUB">1290</price>
+    <short_description>Литой алюминий, антипригарное покрытие «гранит», индукционное дно.</short_description>
+    <full_description>Сковорода диаметром 28 см. Утолщенное дно 6 мм. Ручка бакелит с софт-тач. Можно в посудомойке.</full_description>
+    <in_stock>true</in_stock>
+    <brand>StonePan</brand>
+    <weight_kg>1.8</weight_kg>
+    <warranty_months>12</warranty_months>
+    <color>темно-серый</color>
+    <rating>4.7</rating>
+    <additional_info>Можно мыть в посудомойке.</additional_info>
+    <image_url>/shopping_image/cf22ec3bd3e2dbd3351bf822f66312d0.jpg</image_url>
+    <detailed_description>Сковорода из литого алюминия с гранитным антипригарным покрытием (без PFOA). Диаметр 28 см, дно 6 мм, подходит для индукции. Глубокий борт. Бакелитовая ручка с софт-тач. Можно мыть в посудомойке. Гарантия 12 месяцев.</detailed_description>
+  </product>
+
+  <product id="27">
+    <name>Блендер погружной BlendPro HB-402 (800 Вт)</name>
+    <sku>HB-402</sku>
+    <price currency="RUB">2690</price>
+    <short_description>Погружной, 2 скорости + турбо, венчик, мерный стакан, насадка-измельчитель.</short_description>
+    <full_description>Нож из нержавейки, плавный пуск. Защита от перегрева. Стакан 700 мл. 24 месяца гарантии.</full_description>
+    <in_stock>false</in_stock>
+    <brand>BlendPro</brand>
+    <weight_kg>1.0</weight_kg>
+    <warranty_months>24</warranty_months>
+    <power_w>800</power_w>
+    <color>белый/зеленый</color>
+    <rating>4.5</rating>
+    <additional_info>Антискользящие ножки, защита от перегрева.</additional_info>
+    <image_url>/shopping_image/7f4e08bbe60d179dfc48e7ba0d2ee4c6.jpg</image_url>
+    <detailed_description>Погружной блендер 800 Вт. Две скорости и турбо. Нож из нержавейки. В комплекте: венчик, мерный стакан 700 мл, измельчитель 500 мл. Плавный пуск, защита от перегрева. Гарантия 24 месяца. Товар временно отсутствует.</detailed_description>
+  </product>
+
+  <product id="28">
+    <name>Набор для специй SpicyKit SR-812 (12 баночек)</name>
+    <sku>SR-812</sku>
+    <price currency="RUB">1450</price>
+    <short_description>12 стеклянных баночек по 50 мл, поворотная стойка, ложки-дозаторы, наклейки.</short_description>
+    <full_description>Металлическая подставка вращается 360°. Матовый черный цвет. Размер 25 см.</full_description>
+    <in_stock>true</in_stock>
+    <brand>SpicyKit</brand>
+    <weight_kg>1.2</weight_kg>
+    <warranty_months>3</warranty_months>
+    <material>стекло, металл, пластик</material>
+    <color>черный матовый</color>
+    <rating>4.6</rating>
+    <additional_info>Легко чистить, можно мыть вручную.</additional_info>
+    <image_url>/shopping_image/6a3e2ad8b2084dd25ba3558d78427b9f.jpg</image_url>
+    <detailed_description>Набор для специй: вращающаяся металлическая стойка, 12 баночек по 50 мл, ложки-дозаторы, 45 наклеек. Высота 25 см. Цвет черный матовый. Гарантия 3 месяца.</detailed_description>
+  </product>
+</goods>
